@@ -39,19 +39,19 @@ GlucoScan is here to make a difference by empowering users to easily check the s
 - **Track History**: Keep a history of scanned beverages.
 - **Smart Notifications**: Receive reminders and recommendations to stay within healthy limits.
 - **User-Friendly Design**: Built with Material Design 3 for a seamless experience.
-https://github.com/GlucoScan-Bangkit/GlucoScan-App
+  https://github.com/GlucoScan-Bangkit/GlucoScan-App
 
 ### Machine Learning
 - **OCR for Label Reading**: Powered by Tesseract and EasyOCR to accurately extract sugar information.
 - **Advanced Image Processing**: Utilizes TensorFlow, Keras, and OpenCV to identify nutrition labels.
 - **Personalized Analytics**: Processes and stores data for actionable health insights.
-https://github.com/GlucoScan-Bangkit/GlucoScanProject
+  https://github.com/GlucoScan-Bangkit/GlucoScanProject
 
 ### Cloud Computing
 - **Secure Infrastructure**: Built on Google Cloud Platform (GCP) for scalability and security.
 - **Integrated Services**: Vertex AI for ML model deployment, Firebase for data management, and Cloud Functions for API processing.
 - **Data Storage**: Safe and efficient storage with Google Cloud Storage.
-https://github.com/GlucoScan-Bangkit/GlucoScan_Cloud
+  https://github.com/GlucoScan-Bangkit/GlucoScan_Cloud
 ---
 
 ## 🛠️ Technical Architecture
