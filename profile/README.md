@@ -1,6 +1,6 @@
 ![image-removebg-preview(7)](https://github.com/user-attachments/assets/db2b9546-ebbe-4747-8628-def1615abf4e)
 
-# GlucoScan - Everyone’s Can
+# Glucoscan - Everyone’s Can
 Diabetes is a growing health crisis, particularly in Indonesia, where over 19 million individuals were affected as of 2021—a number projected to reach 28 million by 2045. A significant contributor to this issue is the excessive consumption of sugary packaged drinks, often unbeknownst to consumers.
 
 GlucoScan is here to make a difference by empowering users to easily check the sugar content in packaged beverages, monitor their daily sugar intake, and make healthier drink choices. 
