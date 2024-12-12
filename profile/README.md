@@ -8,7 +8,6 @@ GlucoScan is here to make a difference by empowering users to easily check the s
 ### 🌟 Key Highlights
 - **Real-Time Sugar Detection**: Instantly detect sugar content in packaged drinks.
 - **Daily Sugar Monitoring**: Track and analyze your daily sugar intake effortlessly.
-- **Health Insights**: Get personalized recommendations to manage your health better.
 
 ---
 ## 🤝 Meet the Team
@@ -75,8 +74,9 @@ GlucoScan is here to make a difference by empowering users to easily check the s
 ## 🧩 Future Enhancements
 - Multi-language support to expand accessibility.
 - Enhanced analytics for premium users.
-- More advanced technical architecture 
+- More advanced technical architecture.
 - Integration with wearable devices for comprehensive health tracking.
+- Recommendation feature. 
 
 ---
 
