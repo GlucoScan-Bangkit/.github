@@ -84,5 +84,5 @@ GlucoScan is here to make a difference by empowering users to easily check the s
 
 ## 📲 Join Us!
 Download the GlucoScan app today and start your journey to a healthier lifestyle. Together, let's tackle the diabetes crisis one scan at a time.
-https://drive.google.com/file/d/1cNYyPZD6YdZ4VGqLYQtIRq87s_raBXdY/view?usp=sharing
+https://drive.google.com/file/d/1XMGF81VLGzKzvvVWBi3MaxaWhXBBmMK6/view?usp=sharing
 ---
